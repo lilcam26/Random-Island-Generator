@@ -4,9 +4,9 @@ Island.txt will have a grid with a size specified by the user and an island in t
 The grid will be comprised of symbols that resemble different heights on the island.
 
 The symbol key is below:
-# - water
-~ - shallow water
-. - sand
-* - trees 
-^ - mountains
+####### - water |||
+~ - shallow water |||
+. - sand ||| 
+* - trees |||
+^ - mountains |||
 
